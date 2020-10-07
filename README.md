@@ -8,8 +8,8 @@ Sample website with plenty of files for demos
 
 ## Introduction
 
-A sample project
+A sample project. I am learning more about git.
 
 ## Deployment
 
-It is deployed testing
+It is deployed testing. You can demo it always.
